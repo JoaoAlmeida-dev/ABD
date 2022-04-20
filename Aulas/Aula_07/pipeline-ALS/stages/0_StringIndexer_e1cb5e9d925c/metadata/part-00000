@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexer","timestamp":1649343762362,"sparkVersion":"3.2.1","uid":"StringIndexer_e1cb5e9d925c","paramMap":{"handleInvalid":"keep","outputCol":"ISBN-Index","inputCol":"ISBN"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_e1cb5e9d925c__output","stringOrderType":"frequencyDesc"}}
